@@ -70,7 +70,7 @@ void gazibu(double putar) {
     glColor3f(0, 0.5, 0);
     
     //tangga1
-    glPushMatrix();
+  /*  glPushMatrix();
     glTranslated(1.5, -5.5, 2);
     glScaled(0.3, 0.21, 0.2);
     glutSolidCube(7.0); 
@@ -127,11 +127,11 @@ void gazibu(double putar) {
     glPopMatrix();
     
      //dindingkiri
-    /**/glPushMatrix();
+    /*glPushMatrix();
     glTranslated(-2.5, -0.8, 0.25);
     glScaled(0.02, 1.5, 0.6);
     glutSolidCube(7.0);
-    glPopMatrix();
+    glPopMatrix(); 
   
     //tiang2
    /* glPushMatrix();
@@ -143,11 +143,11 @@ void gazibu(double putar) {
     
     
     //dindingbelakang
-    glPushMatrix();
+   /* glPushMatrix();
     glTranslated(0.1, -1, -1.8);
     glScaled(0.75, 1.5, 0.02);
     glutSolidCube(7.0);
-    glPopMatrix();
+    glPopMatrix();*/
 
     //tiang4
    /* glPushMatrix();
