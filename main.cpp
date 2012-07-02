@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Doni
- *
+ *arif rahman on github
  * Created on 21 Mei 2012, 20:54
  * 
  * Kelompok 2
